@@ -1,4 +1,4 @@
-package main;
+package moell;
 
 import java.util.Scanner;
 

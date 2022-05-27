@@ -1,4 +1,4 @@
-package main;
+package moell;
 
 public class Hajo {
     private int[] pozicio;
